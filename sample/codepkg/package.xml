@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>SampleDeployClass</members>
+        <members>SampleDeployClass4</members>
+        <members>SampleDeployClass3</members>
         <members>SampleFailingTestClass</members>
         <name>ApexClass</name>
     </types>
