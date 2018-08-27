@@ -8,7 +8,7 @@
         <name>ApexClass</name>
     </types>
     <types>
-     
+         <members>SampleAccountTrigger</members>
         <name>ApexTrigger</name>
     </types>
     <version>41.0</version>
