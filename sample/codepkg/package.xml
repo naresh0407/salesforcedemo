@@ -9,7 +9,6 @@
     </types>
     <types>
         <members>SampleAccountTrigger</members>
-        <members>SampleAccountTrigger1</members>
         <name>ApexTrigger</name>
     </types>
     <version>41.0</version>
