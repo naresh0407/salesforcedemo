@@ -7,9 +7,9 @@
         <members>SampleFailingTestClass</members>
         <name>ApexClass</name>
     </types>
-    <types>
-         <members>SampleAccountTrigger</members>
+     <types>
+        <members>SampleAccountTrigger</members>
         <name>ApexTrigger</name>
     </types>
-    <version>41.0</version>
+    <version>43.0</version>
 </Package>
